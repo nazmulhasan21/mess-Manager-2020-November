@@ -4,11 +4,7 @@ img{
     width: 100%;
     height: inherit;
 }
-.table-style{
-    width: 1400px !important;
-    font-size: 20px;
-   
-}
+
 .Boarder_List td {
     border: none !important;
     vertical-align:inherit !important;
@@ -39,4 +35,12 @@ img{
     height: 99px;
     border-radius: 50%;
     overflow: hidden;
+}
+#All_border button, #All_border select{
+    position: absolute;
+    z-index: 999999;
+    top: 10px;
+}
+#All_border button{
+    right: 0px;
 }

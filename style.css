@@ -5,6 +5,7 @@ img{
     height: inherit;
 }
 
+
 .Boarder_List td {
     border: none !important;
     vertical-align:inherit !important;
@@ -39,6 +40,9 @@ img{
     height: 99px;
     border-radius: 50%;
     overflow: hidden;
+}
+.modal-content{
+    background: #ffffffcf;
 }
 #All_border button, #All_border select, .modal-header .btn{
     position: absolute;

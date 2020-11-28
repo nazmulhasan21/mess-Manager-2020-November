@@ -4,6 +4,10 @@ img{
     width: 100%;
     height: inherit;
 }
+.list-group.list-group-horizontal.hasan{
+    
+    overflow: hidden !important;
+}
 
 .Boarder_List td {
     border: none !important;

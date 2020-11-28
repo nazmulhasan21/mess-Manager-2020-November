@@ -4,17 +4,17 @@ img{
     width: 100%;
     height: inherit;
 }
-ul.list-group.list-group-horizontal.hasan {
-    
-    overflow: hidden !important;
-}
 
 .Boarder_List td {
     border: none !important;
     vertical-align:inherit !important;
 }
-.Boarder_List, .Cost_Detials{
-    font-size: 20px !important;
+.Cost_Detials{
+    padding: 5px !important;
+
+}
+.Boarder_List{
+    padding:0px !important;
 }
 .container{
     overflow: auto;
@@ -40,11 +40,11 @@ ul.list-group.list-group-horizontal.hasan {
     border-radius: 50%;
     overflow: hidden;
 }
-#All_border button, #All_border select{
+#All_border button, #All_border select, .modal-header .btn{
     position: absolute;
     z-index: 999999;
     top: 10px;
 }
-#All_border button{
-    right: 0px;
+#All_border button, .modal-header .btn{
+    right: 5px;
 }

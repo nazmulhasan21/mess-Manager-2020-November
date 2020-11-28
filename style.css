@@ -4,7 +4,7 @@ img{
     width: 100%;
     height: inherit;
 }
-.list-group.list-group-horizontal.hasan{
+ul.list-group.list-group-horizontal.hasan {
     
     overflow: hidden !important;
 }

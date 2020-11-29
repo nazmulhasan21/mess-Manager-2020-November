@@ -4,18 +4,17 @@ img{
     width: 100%;
     height: inherit;
 }
+ul li a {
+    font-size: 25px;
+}
 
-
-.Boarder_List td {
+.boarderList table td {
     border: none !important;
     vertical-align:inherit !important;
 }
 .Cost_Detials{
     padding: 5px !important;
 
-}
-.Boarder_List{
-    padding:0px !important;
 }
 .container{
     overflow: auto;
